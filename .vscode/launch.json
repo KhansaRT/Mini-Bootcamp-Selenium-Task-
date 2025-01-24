@@ -1,0 +1,49 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CheckoutTask",
+            "request": "launch",
+            "mainClass": "automation_task.CheckoutTask",
+            "projectName": "minibootcampwebautomatino"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Checkout",
+            "request": "launch",
+            "mainClass": "automation.Checkout",
+            "projectName": "minibootcampwebautomatino"
+        },
+        {
+            "type": "java",
+            "name": "DeleteProduct",
+            "request": "launch",
+            "mainClass": "automation.DeleteProduct",
+            "projectName": "minibootcampwebautomatino"
+        },
+        {
+            "type": "java",
+            "name": "App",
+            "request": "launch",
+            "mainClass": "com.webautomation.App",
+            "projectName": "minibootcampwebautomatino"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "com.webautomation.Main",
+            "projectName": "minibootcampwebautomatino"
+        }
+    ]
+}
